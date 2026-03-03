@@ -1,7 +1,7 @@
 # crayons-to-classrooms-portfolio
-# Crayons to Classrooms — Inventory System (Design & Architecture Portfolio)
+# Crayons to Classrooms — Inventory System (Design Portfolio)
 
-This repository contains **non-proprietary design artifacts** (UI screens, workflows, and system diagrams) from my work on an inventory/workflow system for a nonprofit warehouse context.
+This repository contains **non-proprietary design artifacts** from my work on an inventory/workflow system for a nonprofit warehouse context.
 
 **Code is proprietary and not included**. This repo focuses on documentation that is implementation-ready: flows, data model thinking, and API-level specification.
 

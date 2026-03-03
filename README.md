@@ -19,23 +19,11 @@ This repository contains **non-proprietary design artifacts** (UI screens, workf
 ## UI Screens
 
 ### Dashboard
-![Dashboard](design/dashboard.png)
-
+![Dashboard](designs/dashboard.png)
 ### Inventory Table
-![Inventory Table](design/inventory-table.png)
-
-### Item Detail / Edit
-![Item Detail / Edit](design/item-detail-edit.png)
-
----
-
-## System / Workflow
-
-### Inventory Lifecycle
-![Workflow](architecture/workflow.png)
-
-### Data Model (Conceptual)
-![DB Schema](architecture/db-schema.png)
+![Inventory Table](designs/inventory.png)
+### Item Activity
+![Item Activity](designs/activity-log.png)
 
 ---
 
